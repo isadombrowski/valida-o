@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color: turquoise;
+    background-color:rgb(226, 255, 171);
     display: flex;
     justify-content: center;
     font-family:Verdana
@@ -19,7 +19,7 @@ footer{
 
 footer a{
     text-decoration: none;
-    color: blueviolet;
+    color:blueviolet;
     padding: 40px ;
     text-align: center;
 }
